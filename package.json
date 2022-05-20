@@ -1,0 +1,14 @@
+{
+  "name": "express-course-main",
+  "version": "1.0.0",
+  "description": "Global variables means that these variables are accessible throughout the app.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
